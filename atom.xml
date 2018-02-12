@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>大道至简</title>
+  
+  <subtitle>真传一句话,假传万卷书。</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2018-02-12T01:49:28.327Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>JanHo</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>哈哈哈哈</title>
+    <link href="http://yoursite.com/2018/02/08/%E5%93%88%E5%93%88%E5%93%88%E5%93%88/"/>
+    <id>http://yoursite.com/2018/02/08/哈哈哈哈/</id>
+    <published>2018-02-08T07:28:04.000Z</published>
+    <updated>2018-02-12T01:49:28.327Z</updated>
+    
+    <content type="html"><![CDATA[<html><br><head><br>    <meta charset="UTF-8"><br>    <title>不受模板束缚的HTML</title><br></head><br><body><br><embed width="800" height="600" src="./1.swf"><br></body><br></html>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;html&gt;&lt;br&gt;&lt;head&gt;&lt;br&gt;    &lt;meta charset=&quot;UTF-8&quot;&gt;&lt;br&gt;    &lt;title&gt;不受模板束缚的HTML&lt;/title&gt;&lt;br&gt;&lt;/head&gt;&lt;br&gt;&lt;body&gt;&lt;br&gt;&lt;embed width=&quot;800&quot; height=&quot;600&quot; src
+      
+    
+    </summary>
+    
+      <category term="-哈哈哈系列文章" scheme="http://yoursite.com/categories/%E5%93%88%E5%93%88%E5%93%88%E7%B3%BB%E5%88%97%E6%96%87%E7%AB%A0/"/>
+    
+    
+      <category term="-生活杂谈" scheme="http://yoursite.com/tags/%E7%94%9F%E6%B4%BB%E6%9D%82%E8%B0%88/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://yoursite.com/2018/02/08/hello-world/"/>
+    <id>http://yoursite.com/2018/02/08/hello-world/</id>
+    <published>2018-02-08T07:28:04.000Z</published>
+    <updated>2018-02-12T01:48:40.100Z</updated>
+    
+    <content type="html"><![CDATA[<p>随便说点</p><p>测试一下</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;随便说点&lt;/p&gt;
+&lt;p&gt;测试一下&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+      <category term="-HELLOWORLD系列" scheme="http://yoursite.com/categories/HELLOWORLD%E7%B3%BB%E5%88%97/"/>
+    
+    
+      <category term="-生活杂谈" scheme="http://yoursite.com/tags/%E7%94%9F%E6%B4%BB%E6%9D%82%E8%B0%88/"/>
+    
+  </entry>
+  
+</feed>
